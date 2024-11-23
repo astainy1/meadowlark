@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "nodemon": "^3.1.7"
+  },
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "This is a clone of Meadowlark Travel Website",
+  "main": "meadowlark",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon meadowlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "meadowlark"
+  },
+  "keywords": [
+    "Travel",
+    "Meadowlark",
+    "Travel",
+    "Agency",
+    "Free",
+    "Travel",
+    "Agency"
+  ],
+  "author": "Christian Astainy Harris",
+  "license": "MIT"
+}
